@@ -49,7 +49,7 @@ pip install Flask
        - Flask: https://flask.palletsprojects.com/en/3.0.x/
        - Python: https://www.python.org/doc/
 ## 🤝 Feedback and Contributions
-I have made every effort to implement all the main aspects of the Blog capstone project in the best possible way. However, the development journey doesn't end here, and your input is crucial for our continuous improvement.
+I have made every effort to implement all the main aspects of the Name-card project in the best possible way. However, the development journey doesn't end here, and your input is crucial for our continuous improvement.
 
 > [!IMPORTANT]
 > Whether you have feedback on features, have encountered any bugs, or have suggestions for enhancements, we're eager to hear from you. Your insights help us make the Name-card project more robust and user-friendly.
@@ -59,4 +59,6 @@ Contributions are welcome! Please fork this repository and submit a pull request
 I appreciate your support and look forward to making this product even better with your help!
 
 ## ©️ Contact
-For more questions you can reach me through my email: (akwaowoudokop15@gmail.com)
+For more questions you can reach me through:  
+- email: akwaowoudokop15@gmail.com
+- LinkedIn: https://www.linkedin.com/in/akwaowo-udokop-474662229/
